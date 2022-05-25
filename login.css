@@ -1,0 +1,21 @@
+.image_mountain{
+	background-image:url(nature_01.jpg)
+}
+
+.center{
+	align-content: center;
+}
+.transparent-input{
+       background-color:rgba(0,0,0,0.2) !important;
+/*       border:none !important;*/
+}
+.transparent-login-card{
+       background-color: rgba(244, 173, 161,0.4) !important;
+/*       border:none !important;*/
+}
+
+.transparent-login-button{
+       background-color: rgba(92, 170, 230,0.5) !important;
+/*       border:none !important;*/
+}
+
