@@ -1,7 +1,7 @@
 
 
 <?php
-ECHO "WELCOME";
+echo "WELCOME";
 // echo "Hello World!<br>";
 // EcHo "Hello World!<br>";
 ?>
